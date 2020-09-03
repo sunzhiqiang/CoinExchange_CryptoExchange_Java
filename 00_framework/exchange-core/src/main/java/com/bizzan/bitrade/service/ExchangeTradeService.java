@@ -12,7 +12,7 @@ import com.bizzan.bitrade.entity.ExchangeTrade;
 
 import java.util.List;
 
-@Service
+//@Service
 public class ExchangeTradeService {
     @Autowired
     private MongoTemplate mongoTemplate;

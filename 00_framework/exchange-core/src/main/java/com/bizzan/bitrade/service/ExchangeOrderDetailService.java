@@ -13,7 +13,7 @@ import com.bizzan.bitrade.service.MemberService;
 import java.util.List;
 
 @Slf4j
-@Service
+//@Service
 public class ExchangeOrderDetailService {
     @Autowired
     private ExchangeOrderDetailRepository orderDetailRepository;

@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@Component
+//@Component
 public class CoinTraderEvent implements ApplicationListener<ContextRefreshedEvent> {
     private Logger log = LoggerFactory.getLogger(CoinTraderEvent.class);
     @Autowired

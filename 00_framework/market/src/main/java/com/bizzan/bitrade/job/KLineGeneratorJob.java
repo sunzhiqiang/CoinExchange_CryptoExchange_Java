@@ -16,7 +16,7 @@ import java.util.HashMap;
  * 生成各时间段的K线信息
  *
  */
-@Component
+//@Component
 @Slf4j
 public class KLineGeneratorJob {
     @Autowired

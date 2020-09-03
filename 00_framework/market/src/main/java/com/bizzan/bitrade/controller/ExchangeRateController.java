@@ -10,7 +10,7 @@ import com.bizzan.bitrade.util.MessageResult;
 
 import java.math.BigDecimal;
 
-@RestController
+//@RestController
 @RequestMapping("/exchange-rate")
 public class ExchangeRateController {
     @Autowired

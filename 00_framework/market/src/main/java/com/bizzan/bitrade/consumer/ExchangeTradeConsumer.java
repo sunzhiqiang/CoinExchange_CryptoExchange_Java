@@ -29,7 +29,7 @@ import com.bizzan.bitrade.service.ExchangeOrderService;
 
 import lombok.extern.slf4j.Slf4j;
 
-@Component
+//@Component
 @Slf4j
 public class ExchangeTradeConsumer {
 	private Logger logger = LoggerFactory.getLogger(ExchangeTradeConsumer.class);

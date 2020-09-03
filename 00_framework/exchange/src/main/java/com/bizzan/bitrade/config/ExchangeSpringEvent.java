@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-@Component
+//@Component
 public class ExchangeSpringEvent implements ApplicationListener<ContextRefreshedEvent> {
     private Logger log = LoggerFactory.getLogger(ExchangeSpringEvent.class);
     @Autowired

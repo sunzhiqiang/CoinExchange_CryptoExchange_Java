@@ -13,7 +13,7 @@ import com.bizzan.bitrade.constant.SysConstant;
 import java.util.List;
 
 @Slf4j
-@Component
+//@Component
 public class DataDictionarySaveUpdateConsumer {
     @Autowired
     private RedisTemplate redisTemplate;

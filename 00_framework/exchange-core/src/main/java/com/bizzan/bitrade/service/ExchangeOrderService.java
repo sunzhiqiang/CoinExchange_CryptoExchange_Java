@@ -46,7 +46,7 @@ import java.util.Date;
 import java.util.List;
 
 @Slf4j
-@Service
+//@Service
 public class ExchangeOrderService extends BaseService {
 
     @Autowired

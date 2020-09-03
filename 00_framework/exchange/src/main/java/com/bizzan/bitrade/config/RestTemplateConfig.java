@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
  * @author daishuyang
  *
  */
-@Configuration
+//@Configuration
 public class RestTemplateConfig {
 
     @Bean

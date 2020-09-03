@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 
-@Service
+//@Service
 public class MongoBaseService<T> {
 
     @Autowired

@@ -10,7 +10,7 @@ import com.bizzan.bitrade.util.DateUtil;
 
 import java.util.List;
 
-@Service
+//@Service
 public class FavorSymbolService {
     @Autowired
     private FavorSymbolRepository favorSymbolRepository;

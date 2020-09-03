@@ -15,7 +15,7 @@ import java.math.BigDecimal;
 import java.util.Calendar;
 import java.util.List;
 
-@Service
+//@Service
 public class MarketService {
     @Autowired
     private MongoTemplate mongoTemplate;

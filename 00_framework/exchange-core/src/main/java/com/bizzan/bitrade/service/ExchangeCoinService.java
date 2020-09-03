@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.persistence.criteria.Path;
 import java.util.List;
 
-@Service
+//@Service
 public class ExchangeCoinService {
     @Autowired
     private ExchangeCoinRepository coinRepository;

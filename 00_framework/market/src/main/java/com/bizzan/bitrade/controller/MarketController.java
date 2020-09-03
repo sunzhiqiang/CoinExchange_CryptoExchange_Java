@@ -27,7 +27,7 @@ import java.math.BigDecimal;
 import java.util.*;
 
 @Slf4j
-@RestController
+//@RestController
 public class MarketController {
     @Autowired
     private MarketService marketService;

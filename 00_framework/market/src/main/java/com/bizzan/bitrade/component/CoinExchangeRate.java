@@ -28,7 +28,7 @@ import java.math.RoundingMode;
 /**
  * 币种汇率管理
  */
-@Component
+//@Component
 @Slf4j
 @ToString
 public class CoinExchangeRate {

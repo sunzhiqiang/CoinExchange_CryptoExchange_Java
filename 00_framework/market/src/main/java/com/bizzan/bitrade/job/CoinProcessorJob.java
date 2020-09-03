@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
  * 自动同步Exchange撮合交易中心中的交易对
  *
  */
-@Component
+//@Component
 @Slf4j
 public class CoinProcessorJob {
 	@Autowired

@@ -13,7 +13,7 @@ import com.bizzan.bitrade.service.ExchangeCoinService;
 
 import java.util.List;
 
-@Component
+//@Component
 @Slf4j
 public class ApplicationEvent implements ApplicationListener<ContextRefreshedEvent> {
     @Autowired
